@@ -1,3 +1,13 @@
+.build/
+.swiftpm/
 .DS_Store
-*.app
-build/
+work/
+dist/
+__pycache__/
+*.py[cod]
+signing-identity.json
+*.p12
+*.pfx
+*.keychain-db
+*.key
+*.xcuserstate
