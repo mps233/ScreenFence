@@ -4,6 +4,14 @@
 
 当前版本：**1.2.3（构建 6）**。需要 **macOS 14 或更新版本**。
 
+## 下载
+
+[最新发行版](https://github.com/mps233/ScreenFence/releases/latest) · [1.2.3 DMG 安装包](https://github.com/mps233/ScreenFence/releases/download/v1.2.3/ScreenFence-1.2.3-macOS-arm64.dmg) · [1.2.3 ZIP 解压版](https://github.com/mps233/ScreenFence/releases/download/v1.2.3/ScreenFence-1.2.3-macOS-arm64.zip)
+
+预编译安装包支持 Apple Silicon（M 系列）Mac，要求 macOS 14 或更新版本。DMG 打开后将「屏界.app」拖入「Applications」；ZIP 解压后同样将 App 移入「Applications」。发布页附有 SHA-256 校验文件。
+
+App 使用长期本地代码签名证书，尚未经过 Apple 公证。首次下载如被系统阻止，请核对来源及校验值后，按 [Apple 的说明](https://support.apple.com/zh-cn/102445) 在「系统设置 → 隐私与安全性」中选择「仍要打开」。
+
 ![屏界设置界面](docs/images/settings.png)
 
 ## 使用
